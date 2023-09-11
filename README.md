@@ -1,7 +1,7 @@
 SOBRE MIM:
 <br>
 -Cursando o terceiroano do ensino médio.
-<hr>
+<br>
 -Aprendendo sobre programação.
-<hr>
+<br>
 -moro em São Paulo Brasil.
