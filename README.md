@@ -1,10 +1,12 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+👋+My+name+is+Gabriel Shimoda.;Welcome+to+my+github+:P)](https://git.io/typing-svg)
 
-SOBRE MIM:
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=OLA!+Me+Chamo+Gabriel+Shimoda.;Bem+Vindo+ao+meu+github+>:D)](https://git.io/typing-svg)
 <br>
--Cursando o terceiroano do ensino médio.
+SOBRE MIM:
+
+<br>
+-Cursando o terceiro ano do ensino médio.
 <br>
 -Aprendendo sobre programação.
 <br>
--moro em São Paulo Brasil.
+-Moro em São Paulo Brasil.
